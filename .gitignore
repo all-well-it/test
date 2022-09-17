@@ -1,0 +1,19 @@
+# temporary files
+*~
+*.swp
+
+# hidden stuff
+.*
+!.editorconfig
+!.gitignore
+!.yamllint
+!.env.dist
+
+# python specific
+__pycache__/
+venv/
+
+# project related
+*.zip
+
+/log.txt
